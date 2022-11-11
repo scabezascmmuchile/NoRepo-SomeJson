@@ -1,0 +1,7 @@
+{
+    "contenido":{
+        "texto1": {"esp":"texto1 del recurso 1"},
+        "texto2": {"esp":"texto2 del recurso 1 este texto puede ser mucho mas largo, si puede llevar mucho mas contenido"},
+        "texto3": {"esp":"Estamos en el año 50 antes de Jesucristo. Toda la Galia está ocupada por los romanos… ¿Toda? ¡No! Una aldea poblada por irreductibles galos resiste, todavía y como siempre, al invasor. Y la vida no es fácil para las guarniciones de legionarios romanos en los reducidos campamentos de Babaorum, Aquarium, Laudanum y Petibonum…"}
+    }
+}
