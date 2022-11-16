@@ -9,7 +9,7 @@
         }
     },
     "etiquetas": ["3° medio","Geometría 3D","Arte"],
-    "cuadropestanas":[
+    "cuadrotema":[
         {
             "titulo":{"esp":"Contexto"},
             "codigo": "context",
