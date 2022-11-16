@@ -5,13 +5,16 @@
         {
             "nombre": {"esp":"nombre rec1"},
             "codigo": "rec_01",
+            "version": 0,
             "ejes": ["geometria"],
             "niveles": [1,3],
+            "etiquetas": [""],
             "ubicacion": ""
         },
         {
             "nombre": {"esp":"nombre rec 2"},
             "codigo": "rec_02",
+            "version": 0,
             "ejes": ["algebra"],
             "niveles": [1,3],
             "ubicacion": ""
