@@ -1,50 +1,66 @@
 {
-    "titulo": {"esp" : "¿Cómo representamos el mundo?"},
+    "titulo": {
+        "esp": "¿Cómo representamos el mundo?"
+    },
     "codigo": "situa_01",
-    "descripcion": {"esp" : "¿Cómo representamos el mundo?"},
+    "descripcion": {
+        "esp": "¿Cómo representamos el mundo?"
+    },
     "multimedia": {
-        "esp" : {
-            "tipo" : "imagen",
-            "url" : ""
+        "esp": {
+            "tipo": "imagen",
+            "url": ""
         }
     },
-    "etiquetas": ["3° medio","Geometría 3D","Arte"],
-    "cuadrotema":[
+    "etiquetas": [
+        "3° medio",
+        "Geometría 3D",
+        "Arte"
+    ],
+    "cuadrotema": [
         {
-            "titulo":{"esp":"Contexto"},
+            "titulo": {
+                "esp": "Contexto"
+            },
             "codigo": "context",
             "tipo": "cuadropestana",
-            "descripcion":{
-                "esp":"En esta situación, se utiliza el contexto de la representación de la realidad de pintores de distintas épocas y culturas para introducir los conceptos de proyección central y proyección paralela."
+            "descripcion": {
+                "esp": "En esta situación, se utiliza el contexto de la representación de la realidad de pintores de distintas épocas y culturas para introducir los conceptos de proyección central y proyección paralela."
             },
-            "ubicacion":""
+            "ubicacion": ""
         },
         {
-            "titulo":{"esp":"Relación Currículum"},
+            "titulo": {
+                "esp": "Relación Currículum"
+            },
             "codigo": "curri",
             "tipo": "cuadropestana",
-            "descripcion":{
-                "esp":"Revisa los objetivos de aprendizaje que se pueden abordar con esta situación e identifica los contenidos, habilidades y niveles escolares en los que puede ser de utilidad."
+            "descripcion": {
+                "esp": "Revisa los objetivos de aprendizaje que se pueden abordar con esta situación e identifica los contenidos, habilidades y niveles escolares en los que puede ser de utilidad."
             },
-            "ubicacion":""
+            "ubicacion": ""
         },
         {
-            "titulo":{"esp":"Recursos"},
+            "titulo": {
+                "esp": "Recursos"
+            },
             "codigo": "recursos",
             "tipo": "cuadropestana",
-            "descripcion":{
-                "esp":"Se utiliza un video para introducir la situación y una serie de recursos para abordar la comprensión de los conceptos matemáticos que surgen de ella."
+            "descripcion": {
+                "esp": "Se utiliza un video para introducir la situación y una serie de recursos para abordar la comprensión de los conceptos matemáticos que surgen de ella."
             },
-            "ubicacion":""
+            "ubicacion": ""
         },
         {
-            "titulo":{"esp":"Gestión Sugerida"},
+            "titulo": {
+                "esp": "Gestión Sugerida"
+            },
             "codigo": "gestion",
             "tipo": "cuadropestana",
-            "descripcion":{
-                "esp":"Te proponemos algunas orientaciones de gestión para sacar el máximo provecho de esta situación y lograr aprendizajes valiosos sobre los conceptos de proyección central y proyección paralela."
+            "descripcion": {
+                "esp": "Te proponemos algunas orientaciones de gestión para sacar el máximo provecho de esta situación y lograr aprendizajes valiosos sobre los conceptos de proyección central y proyección paralela."
             },
-            "ubicacion":""
+            "ubicacion": ""
         }
     ]
 }
