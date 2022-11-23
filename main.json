@@ -12,6 +12,24 @@
             "ubicacion": ""
         },
         {
+            "nombre": {"esp":"¿Cómo representamos el mundo? 2"},
+            "codigo": "sutua_02",
+            "version": 0,
+            "ejes": ["geometria"],
+            "niveles": ["3m"],
+            "etiquetas": ["3° medio","geometria 3D","Arte"],
+            "ubicacion": ""
+        },
+        {
+            "nombre": {"esp":"¿Cómo representamos el mundo? 3"},
+            "codigo": "sutua_03",
+            "version": 0,
+            "ejes": ["geometria"],
+            "niveles": ["3m"],
+            "etiquetas": ["3° medio","geometria 3D","Arte"],
+            "ubicacion": ""
+        },
+        {
             "nombre": {"esp":"nombre rec 2"},
             "codigo": "rec_02",
             "version": 0,
