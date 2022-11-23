@@ -4,7 +4,7 @@
     "misrecursos": [
         {
             "nombre": {"esp":"¿Cómo representamos el mundo?"},
-            "codigo": "sutua_01",
+            "codigo": "situa_01",
             "version": 0,
             "ejes": ["geometria"],
             "niveles": ["3m"],
@@ -13,7 +13,7 @@
         },
         {
             "nombre": {"esp":"¿Cómo representamos el mundo? 2"},
-            "codigo": "sutua_02",
+            "codigo": "situa_02",
             "version": 0,
             "ejes": ["geometria"],
             "niveles": ["3m"],
@@ -22,7 +22,7 @@
         },
         {
             "nombre": {"esp":"¿Cómo representamos el mundo? 3"},
-            "codigo": "sutua_03",
+            "codigo": "situa_03",
             "version": 0,
             "ejes": ["geometria"],
             "niveles": ["3m"],
