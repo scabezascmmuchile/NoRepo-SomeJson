@@ -1,7 +1,7 @@
 {
     "nombre": "MAT_Con",
     "version" : "0.0.0",
-    "misrecursos": [
+    "situaciones": [
         {
             "nombre": {"esp":"¿Cómo representamos el mundo?"},
             "codigo": "situa_01",
