@@ -1,0 +1,783 @@
+{
+    "titulo": {
+        "esp": "Husos Horarios"
+    },
+    "codigo": "situa_01",
+    "descripcion": {
+        "esp": ["Los husos horarios corresponden a regiones geográficas que tienen la misma hora. Estas se denotan por medio de números enteros (-11 a +12), donde el signo hace referencia a si una franja horaria está adelantada o retrasada respecto de una referencia. Este contexto  permite introducir los números enteros relevando su significado. En esta actividad, se proponen preguntas que facilitan la construcción de este sistema numérico."]
+    },
+    "multimedia": {
+        "esp": {
+            "tipo": "imagen",
+            "url": "http://static.sumaysigue.uchile.cl/MatCon/assets/images/Imagenbisonte.png",
+            "caption": "Imagen de un bisonte (10000 BC)"
+        }
+    },
+    "etiquetas": [
+        "7° básico",
+        "Números",
+        "Representar - Historia",
+        "Geografía y Ciencias Sociales" 
+    ],
+    "habilidades " : [
+        "habilidad 1",
+        "habilidad 2"
+    ],
+    "pagimod": [
+        {
+            "codigo": "fundamen",
+            "nombre": {
+                "esp": "Fundamentación"
+            },
+            "contenido": [
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "En 7° básico, es la primera vez que se estudian los números negativos. La situación “Husos horarios” ayuda a las y  los estudiantes a reconocer la necesidad de usar signos para denotar cantidades en relación a un referente. En este caso, los signos + y - se usan para referirse a zonas horarias “adelantadas” o “retrasadas” en relación al meridiano cero."
+                    }
+                    
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp":"El contexto permite introducir los números negativos de forma coherente con su representación en la recta numérica. Por ejemplo, la zona horaria “-5” es aquella que está 5 horas retrasada respecto de la zona horaria cero (UTC). Esta idea del mundo real, ayuda a las y los estudiantes a apropiarse de la noción de que un número negativo, por ejemplo “-5”, es aquel que se encuentra 5 unidades a la izquierda del cero en la recta numérica."
+                    }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp":"Las y los estudiantes se han enfrentado en su vida scotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
+                    }
+                }                
+            ]
+        },
+        {
+            "codigo": "aprend",
+            "nombre": {
+                "esp": "Aprendizajes"
+            },
+            "contenido": [
+                {
+                    "tipo":"list",
+                    "ordered": false,
+                    "initial": 1,
+                    "firsttext": {
+                        "esp":"<b>Propósitos</b>"
+                    },
+                    "listelements":{
+                        "esp": [
+                        "Reconocer la utilidad de los números enteros para representar situaciones de la vida cotidiana.",
+                        "Representar números enteros en la recta numérica."
+                        ]
+                    }
+                },
+                {
+                    "tipo":"listsubelement",
+                    "ordered": false,
+                    "initial": 1,
+                    "firsttext":{
+                        "esp":"<b>Objetivos de Aprendizaje (7° básico)</b>"
+                    },
+                    "listelements":[
+                            {
+                                "text" : { "esp":"Contenido: <etiqueta>OA1</etiqueta> del eje de Números." },
+                                "sublist" : {
+                                    "firsttext": {
+                                        "esp":"<b>Propósitos</b>"
+                                    },
+                                    "listelements" : {
+                                        "esp":[
+                                        "<b>Representando los números enteros en la recta numérica</b>.",
+                                        "Representándolas de manera concreta, pictórica y simbólica.",
+                                        "<b>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición)</b>.",
+                                        "Resolviendo problemas en contextos cotidianos."
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "text" : { "esp":"Actitud:  OAA A." },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas."
+                                        ]
+                                    }
+                                }
+                            }
+                    ]
+                },
+                {
+                    "tipo":"listsubelement",
+                    "ordered": false,
+                    "initial": 1,
+                    "firsttext":{
+                        "esp":"<b>Transversalidades</b>"
+                    },
+                    "listelements":[
+                            {
+                                "text" : { "esp":"OA transversal: OAT7." },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales."
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "text" : { "esp":"OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico" },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos)."
+                                        ]
+                                    }
+                                }
+                            }
+                            
+                    ]
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "En el siguiente esquema, se propone una secuencia que ilustra cómo los aprendizajes abordados se vinculan con otros:"
+                    }
+                    
+                },
+                {
+                    "codigo": "imagen1",
+                    "tipo":"imagen",
+                    "width": 0,
+                    "height": 0,
+                    "title":{
+                        "esp": "<b>imagen</b>"
+                    },
+                    "url": "",
+                    "caption":{
+                        "esp": "En el siguiente esquema, se propone una secuencia que ilustra cómo los aprendizajes abordados se vinculan con otros:"
+                    }
+                    
+                }
+            ]
+        },
+        {
+            "codigo": "vigestion",
+            "nombre": {
+                "esp": "Vista Previa de la Gestión"
+            },
+            "contenido": [
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "A continuación se resumen los principales momentos de la gestión y se detallan sus objetivos."
+                    }
+                    
+                },
+                {
+                    "tipo":"listsubelement",
+                    "ordered": false,
+                    "initial": 1,
+                    "firsttext":{
+                        "esp":""
+                    },
+                    "listelements":[
+                            {
+                                "text" : { "esp":"<b>Presentación de la situación</b>:" },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "A través de una infografía se introduce el contexto de las zonas horarias. Utilizando preguntas se busca que las y los estudiantes reconozcan la necesidad de contar con un sistema estandarizado que dé cuenta de las diferencias horarias."
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "text" : { "esp":"<b>Construcción de Conocimientos</b>:" },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "En esta sección se busca que las y los estudiantes reconozcan la importancia de contar con una referencia respecto de la cual comparar las diferencias horarias de los países. A partir de esto, trabajan en una serie de actividades que les ayudan a comprender la convención de signos para referirse a las zonas con horas retrasadas (-) o adelantadas (+) respecto de la zona cero."
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "text" : { "esp":"<b>Sistematización</b>:" },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "Se busca establecer un paralelo entre la situación de las zonas horarias y la recta numérica, de forma que las y los estudiantes incorporen la noción de que los signos - y + se utilizan para denotar la posición de los números respecto del 0 en la recta numérica."
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "text" : { "esp":"<b>Práctica y Evaluación</b>:" },
+                                "subtexts" : {
+                                    "texts" : {
+                                        "esp":[
+                                        "Por medio de una guía de ejercicios se busca que las y los estudiantes apliquen los conceptos desarrollados en la clase, y analicen otras situaciones contextuales. En la guía se incluyen ejercicios que permiten la evaluación de los aprendizajes."
+                                        ]
+                                    }
+                                }
+                            }
+                    ]
+                }
+            ]
+        }
+    ],
+    "cuadrotema": [
+        {
+            "codigo": "aspectos",
+            "titulo": {
+                "esp": "Aspectos a considerar"
+            },
+            "color": "yellow",
+            "tipo": "cuadrotema",
+            "descripcion": {
+                "esp": "En esta sección se abordan los aspectos matemáticos y didácticos necesarios para abordar la situación en el aula así como también los aspectos de otras disciplinas necesarios para comprender el contexto. "
+            },
+            "ubicacion": "",
+            "contenido" : [
+               {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Aspectos a considerar"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp": "La recta numérica es una recta graduada en la cual se distingue un punto, el 0, y otro punto que identificamos con 1, que se marca a la derecha del 0. La longitud de este segmento se fija como la unidad de medida y usándola graduamos la recta como se muestra a continuación:"
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{}
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Los números naturales se ubican en la recta numérica a la derecha del 0, incluyéndolo, y son aquellos en que la longitud del segmento definido por 0 y el punto es un múltiplo de la unidad. Por ejemplo, el número 5 está representado por un punto en la recta, de manera que la longitud del segmento entre el 0 y el 5 tenga 5 unidades. Observemos que para identificar un número en la recta no es suficiente entregar la longitud del segmento entre 0 y el número, sino que tenemos que indicar también a qué lado del 0 está. Esto se hace a través del signo. Por ejemplo, el número -5 se identifica con el punto de la recta a la izquierda de 0, tal que el largo del segmento entre este punto y 0 es 5."
+                            }
+                        },
+                        {
+                            
+                            "tipo":"titulo",
+                            "text":{
+                                "esp": "<b>Signo de un número</b>."
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"El signo ‘-’ frente a un número natural se utiliza para referir que ese número se representa a la izquierda del 0 en la recta numérica, por ejemplo -1 se encuentra a la izquierda del 0 y su distancia respecto a él es una unidad."
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{}
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"En general para un número a cualquiera, se define su opuesto, -a como su punto simétrico con respecto al 0. Así, si a está a la derecha del 0, entonces -a estará a la izquierda, mientras que si a está a la izquierda de 0,-a estará a la derecha."
+                            }
+                        },                         
+                        {
+                            
+                            "tipo":"titulo",
+                            "text":{
+                                "esp": "<b>Números enteros"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Los números enteros corresponden a los números naturales, sus opuestos y el cero. Este conjunto se denota usualmente con la letra \\( \\mathbb{Z} \\). "
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "center",
+                            "text":{
+                                "esp":"\\(\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}\\)\\(\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}\\)"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"El conjunto de los números enteros es una extensión de los números naturales. Estos números se usan en varios contextos, como por ejemplo para representar temperaturas, altitudes con respecto al mar, zonas horarias, etc."
+                            }
+                        }
+                    ]
+               },
+               {
+                "tipo": "cuadropestana",
+                "titulo": {
+                    "esp": "Aspectos Didácticos"
+                },
+                "contenido":[
+                    {
+                        "tipo":"text",
+                        "align": "justify",
+                        "text":{
+                            "esp":"Al introducir los números negativos una confusión bastante habitual es confundir el signo menos con la resta. Es importante que las y los estudiantes reconozcan que al escribir -a no se está restando el número a  con algún otro número sino que el signo “ - ”se está usando para referirse a su posición respecto del 0 en la recta numérica (que puede estar a su derecha o a su izquierda, dependiendo si el número a es menor o mayor que 0 respectivamente)."
+                        }
+                    }
+                ]
+               },
+               {
+                "tipo": "cuadropestana",
+                "titulo": {
+                    "esp": "Aspectos Contextuales"
+                },
+                "contenido":[
+                    {
+                        "tipo":"text",
+                        "align": "justify",
+                        "text":{
+                            "esp":"El sistema de 24 zonas horarias (o husos horarios) fue propuesto por el ingeniero canadiense, Sir Sandford Fleming, en 1884.  Cada zona horaria corresponde a una franja geográfica virtual, limitada por meridianos igualmente espaciados, en las que rige una misma hora.  "
+                        }
+                    },
+                    {
+                        "codigo": "imagen1",
+                        "tipo":"imagen",
+                        "width": 0,
+                        "height": 0,
+                        "title":{},
+                        "url": "",
+                        "caption":{}
+                    },
+                    {
+                        "tipo":"text",
+                        "align": "justify",
+                        "text":{
+                            "esp":"Como un día de 24 horas corresponde a un giro completo de la tierra en torno a su eje, al dividir 360° en 24, se obtiene que cada huso horario tiene una amplitud angular de 15° grados, que es de hecho, el ángulo que la Tierra rota en una hora."
+                        }
+                    },
+                    {
+                        "tipo":"text",
+                        "align": "justify",
+                        "text":{
+                            "esp":"Sir Sandford Fleming propuso el uso de estos 24 husos horarios, tomando como punto de referencia el meridiano de Greenwich, zona respecto de la cual se miden el resto de las zonas horarias. "
+                        }
+                    },
+                    {
+                        "tipo":"text",
+                        "align": "justify",
+                        "text":{
+                            "esp":"Si bien es usual referirse a las zonas horarias usando la notación UTC (acrónimo de tiempo coordinado universal), por ejemplo, UTC -3 para referirse a la franja horaria que está retrasada 3 horas respecto de la zona de referencia, en esta actividad omitiremos la notación UTC para referirnos a esa zona horaria. De esta forma, se subentiende que la zona horaria “-3” corresponde a UTC - 3. Se ha decidido lo anterior con el objetivo de hacer más evidente la relación entre este contexto y la recta numérica."
+                        }
+                    }
+                ]
+               }
+            ]
+        },
+        {
+            "codigo": "recursos",
+            "titulo": {
+                "esp": "Recursos"
+            },
+            "color": "red",
+            "tipo": "cuadrotema",
+            "descripcion": {
+                "esp": "Consulta los recursos de apoyo a la gestión diseñados para facilitar la construcción de aprendizajes en el aula a partir de la situación contextual, tales como guías de trabajo, recursos interactivos, simuladores, bases de datos, entre otros."
+            },
+            "ubicacion": "",
+            "contenido" : [
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Presentación de la situación"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"titulo",
+                            "text":{
+                                "esp":"Infografía 1"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Construcción de conocimientos"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":""
+                            },
+                            "listelements":{
+                                "esp": [
+                                "<b>Infografía 1</b></br>Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00.",
+                                "<b>Hoja de Actividades</b></br>Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación. ",
+                                "<b>Infografía 2</b></br>Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Sistematización"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"titulo",
+                            "text":{
+                                "esp":"resentación (diapositivas XX a XX)"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Esta presentación ha sido diseñada con el objetivo de apoyar la implementación en el Aula de esta situación. En particular, la presentación se relaciona directamente con la gestión sugerida para esta situación."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Evaluación y Práctica"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"titulo",
+                            "text":{
+                                "esp":"Guía Práctica"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Este documento propone diversos ejercicios que tienen por objetivo que las y los estudiantes usen los números enteros en el contexto de las zonas horarias. Además, estos pueden ser utilizados para evaluar formativamente los conocimientos desarrollados a partir de la situación."
+                            }
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "codigo": "gestion",
+            "titulo": {
+                "esp": "Gestión sugerida"
+            },
+            "color" : "darkblue",
+            "tipo": "cuadrotema",
+            "descripcion": {
+                "esp": "Te proponemos algunas orientaciones de gestión para sacar el máximo provecho de esta situación y sus recursos asociados."
+            },
+            "ubicacion": "",
+            "contenido" : [
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Presentación de la situación"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"titulo",
+                            "text":{
+                                "esp":"Momento de Enganche"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Comience la lección planteando las siguientes preguntas,"
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{}
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":""
+                            },
+                            "listelements":{
+                                "esp": [
+                                "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?/i>",
+                                "<i>¿Por qué creen que ocurre lo anterior?</i>"
+                                ]
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"De espacio para que las y los estudiantes comenten sus experiencias con las diferencias horarias entre países. Por ejemplo, eventos deportivos, llamadas a familiares, viajes, etc."
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{}
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:"
+                            },
+                            "listelements":{
+                                "esp": [
+                                "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>",
+                                "<i>¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?</i>",
+                                "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
+                                ]
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Estas preguntas buscan que las y los estudiantes noten que es posible determinar la hora en cualquier lugar del mundo, pues existe un sistema estandarizado de horas."
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"A modo de cierre de este momento, se podría enunciar que en lo que sigue, se abordará el problema de determinar la hora en cualquier lugar del mundo."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Construcción de conocimientos"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Explique que la hora cero se fija en la franja horaria de color blanco de la <b>Infografía 1</b> y dé algunos ejemplos de países que se encuentran en esta franja horaria (Inglaterra, Escocia, Burkina Faso)."
+                            }
+                        },
+                        {
+                            "tipo":"momentodestacado",
+                            "align": "justify",
+                            "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Explique que la hora cero se fija en la franja horaria de color blanco de la <b>Infografía 1</b> y dé algunos ejemplos de países que se encuentran en esta franja horaria (Inglaterra, Escocia, Burkina Faso)."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{} 
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": true,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
+                            },
+                            "listelements":{    
+                                "esp": [
+                                "<b>En el mapa anterior, anoten debajo de cada franja horaria, si está “adelantada” o “retrasada” respecto de la zona cero y en cuantas horas.</b>",
+                                "<b>¿Qué países están en esa zona horaria?</b>",
+                                "<b>¿Conviene denotar también como “+1” la zona horaria que está retrasada una hora? Justifiquen su respuesta y luego discutan con otros compañeros/as.</b>"
+                                ]
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"tienen por objetivo que los estudiantes propongan una notación para la zona horaria que está retrasada una hora respecto de la zona cero o zona de referencia."
+                            }   
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Dé un tiempo para que las y los estudiantes aborden estas preguntas y luego pida que compartan sus respuestas con el curso. Guíe la discusión para acordar que la zona horaria retrasada una hora se puede denotar por -1."
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{} 
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": true,
+                            "initial": 4,
+                            "firsttext": {
+                                "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
+                            },
+                            "listelements":{    
+                                "esp": [
+                                "<b>Completa el mapa con las zonas horarias, considerando la notación acordada en el curso</b>."
+                                ]
+                            }
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{} 
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"A modo de cierre de este momento, muestre la <b>Infografía 2</b> a sus estudiantes, en la cual se muestra el mapa de las zonas horarias con su notación estándar."
+                            }   
+                        }  
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Sistematización"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"list",
+                            "ordered": true,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"Sistematice las siguientes ideas relativas a los números enteros."
+                            },
+                            "listelements":{    
+                                "esp": [
+                                "En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.",
+                                "De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.",
+                                "Para denotar a los números a la derecha del cero en la recta numérica se utiliza el signo (+). Sin embargo, muchas veces el signo + no se anota.",
+                                "Los números enteros son aquellos números que incluyen a los números naturales (es decir, los números positivos) el cero y los números negativos, que se encuentran a la izquierda del cero."
+                                ]
+                            }
+                        },
+                        {
+                            "tipo":"momentodestacado",
+                            "align": "justify",
+                            "contenido":[ 
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Pida a los estudiantes que identifiquen en el mapa la zona que está una hora adelantada con respecto a la zona cero (denotada como 0) e indique que esta zona se clasificará como la zona horaria +1."
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "imagen1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url": "",
+                            "caption":{} 
+                        }
+                    ]
+                },      
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Evaluación y Práctica"
+                    },
+                    "contenido":[
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Presente a sus estudiantes la <b>Guía Práctica</b> y dé tiempo para que trabajen en ellos. Estos tienen por objetivo que las y los estudiantes usen los números enteros en el contexto de las zonas horarias. Es importante que discutan acerca del significado de modificar la zona de referencia y cómo esto impacta en el resto de las franjas horarias. Lo anterior, permite reforzar una de las principales ideas abordadas en la sistematización: que el signo de un número indica su posición relativa respecto del 0. "
+                            }
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": true,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"Estos ejercicios pueden ser utilizados para evaluar formativamente los siguientes indicadores:"
+                            },
+                            "listelements":{    
+                                "esp": [
+                                "Relacionar cantidades de la vida diaria con números enteros",
+                                "Representar números enteros positivos y enteros negativos en la recta numérica"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
