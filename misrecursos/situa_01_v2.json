@@ -83,32 +83,35 @@
                         "esp":"<b>Objetivos de Aprendizaje (7° básico)</b>"
                     },
                     "listelements":[
-                            {
-                                "text" : { "esp":"Contenido: <etiqueta>OA1</etiqueta> del eje de Números." },
-                                "sublist" : {
-                                    "firsttext": {
-                                        "esp":"<b>Propósitos</b>"
-                                    },
-                                    "listelements" : {
-                                        "esp":[
-                                        "<b>Representando los números enteros en la recta numérica</b>.",
-                                        "Representándolas de manera concreta, pictórica y simbólica.",
-                                        "<b>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición)</b>.",
-                                        "Resolviendo problemas en contextos cotidianos."
-                                        ]
-                                    }
-                                }
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"<b>Propósitos</b>"
                             },
-                            {
-                                "text" : { "esp":"Actitud:  OAA A." },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
-                                        "Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas."
-                                        ]
-                                    }
-                                }
+                            "listelements":{
+                                "esp": [
+                                    "<b>Representando los números enteros en la recta numérica</b>.",
+                                    "Representándolas de manera concreta, pictórica y simbólica.",
+                                    "<b>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición)</b>.",
+                                    "Resolviendo problemas en contextos cotidianos."
+                                ]
                             }
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"<b>Actitud:  OAA A.</b>"
+                            },
+                            "listelements":{
+                                "esp": [
+                                    "Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas."
+                                ]
+                            }
+                        }
                     ]
                 },
                 {
@@ -119,26 +122,32 @@
                         "esp":"<b>Transversalidades</b>"
                     },
                     "listelements":[
-                            {
-                                "text" : { "esp":"OA transversal: OAT7." },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
-                                        "OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales."
-                                        ]
-                                    }
-                                }
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp":"<b>OA transversal: OAT7.</b>"
                             },
-                            {
-                                "text" : { "esp":"OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico" },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
-                                        "OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos)."
-                                        ]
-                                    }
-                                }
+                            "listelements":{
+                                "esp": [
+                                    "OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales."
+                                ]
                             }
+                        },
+                        {
+                            "tipo":"list",
+                            "ordered": false,
+                            "initial": 1,
+                            "firsttext": {
+                                "esp": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico" 
+                            },
+                            "listelements":{
+                                "esp": [
+                                    "OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos)."
+                                ]
+                            }
+                        }
                             
                     ]
                 },
@@ -189,43 +198,55 @@
                     },
                     "listelements":[
                             {
-                                "text" : { "esp":"<b>Presentación de la situación</b>:" },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
+                                "tipo":"list",
+                                "ordered": false,
+                                "initial": 1,
+                                "firsttext": {
+                                    "esp":"<b>Presentación de la situación</b>:"
+                                },
+                                "listelements":{
+                                    "esp": [
                                         "A través de una infografía se introduce el contexto de las zonas horarias. Utilizando preguntas se busca que las y los estudiantes reconozcan la necesidad de contar con un sistema estandarizado que dé cuenta de las diferencias horarias."
-                                        ]
-                                    }
+                                    ]
                                 }
                             },
                             {
-                                "text" : { "esp":"<b>Construcción de Conocimientos</b>:" },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
+                                "tipo":"list",
+                                "ordered": false,
+                                "initial": 1,
+                                "firsttext": {
+                                    "esp":"<b>Construcción de Conocimientos</b>:"
+                                },
+                                "listelements":{
+                                    "esp": [
                                         "En esta sección se busca que las y los estudiantes reconozcan la importancia de contar con una referencia respecto de la cual comparar las diferencias horarias de los países. A partir de esto, trabajan en una serie de actividades que les ayudan a comprender la convención de signos para referirse a las zonas con horas retrasadas (-) o adelantadas (+) respecto de la zona cero."
-                                        ]
-                                    }
+                                    ]
                                 }
                             },
                             {
-                                "text" : { "esp":"<b>Sistematización</b>:" },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
+                                "tipo":"list",
+                                "ordered": false,
+                                "initial": 1,
+                                "firsttext": {
+                                    "esp":"<b>Sistematización</b>:"
+                                },
+                                "listelements":{
+                                    "esp": [
                                         "Se busca establecer un paralelo entre la situación de las zonas horarias y la recta numérica, de forma que las y los estudiantes incorporen la noción de que los signos - y + se utilizan para denotar la posición de los números respecto del 0 en la recta numérica."
-                                        ]
-                                    }
+                                    ]
                                 }
                             },
                             {
-                                "text" : { "esp":"<b>Práctica y Evaluación</b>:" },
-                                "subtexts" : {
-                                    "texts" : {
-                                        "esp":[
+                                "tipo":"list",
+                                "ordered": false,
+                                "initial": 1,
+                                "firsttext": {
+                                    "esp":"<b>Práctica y Evaluación</b>:"
+                                },
+                                "listelements":{
+                                    "esp": [
                                         "Por medio de una guía de ejercicios se busca que las y los estudiantes apliquen los conceptos desarrollados en la clase, y analicen otras situaciones contextuales. En la guía se incluyen ejercicios que permiten la evaluación de los aprendizajes."
-                                        ]
-                                    }
+                                    ]
                                 }
                             }
                     ]
