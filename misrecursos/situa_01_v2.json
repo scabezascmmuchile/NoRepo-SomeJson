@@ -30,6 +30,7 @@
             "nombre": {
                 "esp": "Fundamentación"
             },
+            "color": "red",
             "contenido": [
                 {
                     "tipo":"text",
@@ -60,6 +61,7 @@
             "nombre": {
                 "esp": "Aprendizajes"
             },
+            "color": "green",
             "contenido": [
                 {
                     "tipo":"list",
@@ -180,6 +182,7 @@
             "nombre": {
                 "esp": "Vista Previa de la Gestión"
             },
+            "color": "yellow",
             "contenido": [
                 {
                     "tipo":"text",
