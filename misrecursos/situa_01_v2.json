@@ -300,7 +300,7 @@
 
                             "tipo":"titulo",
                             "text":{
-                                "esp": "<b>Signo de un número</b>."
+                                "esp": "Signo de un número"
                             }
                         },
                         {
@@ -330,7 +330,7 @@
 
                             "tipo":"titulo",
                             "text":{
-                                "esp": "<b>Números enteros"
+                                "esp": "Números enteros"
                             }
                         },
                         {
