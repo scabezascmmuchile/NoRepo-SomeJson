@@ -10,6 +10,7 @@
     "multimedia": {
         "esp": {
             "tipo": "imagen",
+            "previewurl": "http://static.sumaysigue.uchile.cl/MatCon/assets/images/Imagenbisonte.png",
             "url": "http://static.sumaysigue.uchile.cl/MatCon/assets/images/Imagenbisonte.png",
             "caption": "Imagen de un bisonte (10000 BC)"
         }
@@ -162,17 +163,13 @@
 
                 },
                 {
-                    "codigo": "imagen1",
+                    "codigo": "esquema1",
                     "tipo":"imagen",
                     "width": 0,
                     "height": 0,
-                    "title":{
-                        "esp": "<b>imagen</b>"
-                    },
-                    "url": "",
-                    "caption":{
-                        "esp": "En el siguiente esquema, se propone una secuencia que ilustra cómo los aprendizajes abordados se vinculan con otros:"
-                    }
+                    "title":{},
+                    "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema1.png",
+                    "caption":{}
 
                 }
             ]
@@ -284,12 +281,12 @@
                             }
                         },
                         {
-                            "codigo": "imagen1",
+                            "codigo": "esquema2",
                             "tipo":"imagen",
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url": "",
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png",
                             "caption":{}
                         },
                         {
@@ -314,12 +311,12 @@
                             }
                         },
                         {
-                            "codigo": "imagen1",
+                            "codigo": "esquema3",
                             "tipo":"imagen",
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url": "",
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png",
                             "caption":{}
                         },
                         {
@@ -388,12 +385,12 @@
                         }
                     },
                     {
-                        "codigo": "imagen1",
+                        "codigo": "globe1",
                         "tipo":"imagen",
                         "width": 0,
                         "height": 0,
                         "title":{},
-                        "url": "",
+                        "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png",
                         "caption":{}
                     },
                     {
