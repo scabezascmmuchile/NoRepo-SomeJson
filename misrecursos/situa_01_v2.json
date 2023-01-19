@@ -448,6 +448,15 @@
                             "text":{
                                 "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
                             }
+                        },
+                        {
+                            "codigo": "imgpresentacion1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 0,
+                            "title":{},
+                            "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png"},
+                            "caption":{}
                         }
                     ]
                 },
