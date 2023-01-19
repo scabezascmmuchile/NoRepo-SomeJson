@@ -165,10 +165,10 @@
                 {
                     "codigo": "esquema1",
                     "tipo":"imagen",
-                    "width": 400,
-                    "height": 400,
+                    "width": 0,
+                    "height": 0,
                     "title":{},
-                    "url": {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema1.png"},
+                    "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema1.png",
                     "caption":{}
 
                 }
@@ -286,7 +286,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png"},
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png",
                             "caption":{}
                         },
                         {
@@ -316,7 +316,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png"},
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png",
                             "caption":{}
                         },
                         {
@@ -390,7 +390,7 @@
                         "width": 0,
                         "height": 0,
                         "title":{},
-                        "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png"},
+                        "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png",
                         "caption":{}
                     },
                     {
@@ -458,42 +458,55 @@
                     },
                     "contenido":[
                         {
-                            "tipo":"titulo",
-                            "text":{
-                                "esp":"Infografía 1"
+                          "tipo":"pestanaslaterales",
+                          "color": "blue",
+                          "pestanas": [
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Construcción de conocimientos"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
+                                    }
+                                }
+                              ]
+                            },
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Hoja de Actividades"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación."
+                                    }
+                                }
+                              ]
+                            },
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Infografía 2"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
+                                    }
+                                }
+                              ]
                             }
-                        },
-                        {
-                            "tipo":"text",
-                            "align": "justify",
-                            "text":{
-                                "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
-                            }
-                        },
-                        {
-                            "tipo":"titulo",
-                            "text":{
-                                "esp":"Hoja de Actividades"
-                            }
-                        },
-                        {
-                            "tipo":"text",
-                            "align": "justify",
-                            "text":{
-                                "esp":"Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación."
-                            }
-                        },                        {
-                            "tipo":"titulo",
-                            "text":{
-                                "esp":"Infografía 2 "
-                            }
-                        },
-                        {
-                            "tipo":"text",
-                            "align": "justify",
-                            "text":{
-                                "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
-                            }
+                          ]
                         }
                     ]
                 },
@@ -579,7 +592,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url":  {"esp":""},
+                            "url": "",
                             "caption":{}
                         },
                         {
@@ -609,7 +622,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url":  {"esp":""},
+                            "url": "",
                             "caption":{}
                         },
                         {
@@ -675,7 +688,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url":  {"esp":""},
+                            "url": "",
                             "caption":{}
                         },
                         {
@@ -713,7 +726,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url": {"esp":""},
+                            "url": "",
                             "caption":{}
                         },
                         {
@@ -735,7 +748,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url": {"esp":""},
+                            "url": "",
                             "caption":{}
                         },
                         {
@@ -788,7 +801,7 @@
                             "width": 0,
                             "height": 0,
                             "title":{},
-                            "url": {"esp":""},
+                            "url": "",
                             "caption":{}
                         }
                     ]

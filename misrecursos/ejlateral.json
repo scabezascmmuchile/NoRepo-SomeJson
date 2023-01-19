@@ -1,0 +1,51 @@
+{
+                          "tipo":"pestanaslaterales",
+                          "color": "blue",
+                          "pestanas": [
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Construcción de conocimientos"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
+                                    }
+                                }
+                              ]
+                            },
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Hoja de Actividades"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación."
+                                    }
+                                }
+                              ]
+                            },
+                            {
+                              "tipo":"pestanalateral",
+                              "titulo": {
+                                  "esp": "Infografía 2"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
+                                    }
+                                }
+                              ]
+                            }
+                          ]
+                        }
