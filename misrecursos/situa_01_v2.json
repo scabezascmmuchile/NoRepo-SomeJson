@@ -284,7 +284,7 @@
                             "codigo": "esquema2",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 400,
                             "title":{},
                             "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png"},
                             "caption":{}
@@ -314,7 +314,7 @@
                             "codigo": "esquema3",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 400,
                             "title":{},
                             "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png"},
                             "caption":{}
@@ -388,7 +388,7 @@
                         "codigo": "globe1",
                         "tipo":"imagen",
                         "width": 0,
-                        "height": 0,
+                        "height": 400,
                         "title":{},
                         "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png"},
                         "caption":{}
@@ -453,7 +453,7 @@
                             "codigo": "imgpresentacion1",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 364,
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/presentacion1.png"},
                             "caption":{}
@@ -466,19 +466,6 @@
                         "esp": "Construcción de conocimientos"
                     },
                     "contenido":[
-                        {
-                            "tipo":"titulo",
-                            "text":{
-                                "esp":"Infografía 1"
-                            }
-                        },
-                        {
-                            "tipo":"text",
-                            "align": "justify",
-                            "text":{
-                                "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
-                            }
-                        },
                         {
                             "tipo":"titulo",
                             "text":{
@@ -495,7 +482,7 @@
                             "codigo": "hojaact",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 824,
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/hoja.png"},
                             "caption":{}
@@ -517,7 +504,7 @@
                             "codigo": "imgpresentacion2",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 364,
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/presentacion2.png"},
                             "caption":{}
@@ -547,7 +534,7 @@
                             "codigo": "imgpresentacion3",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 364,
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/presentacion3.png"},
                             "caption":{}
@@ -577,7 +564,7 @@
                             "codigo": "guiaprat",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 0,
+                            "height": 824,
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/guia.png"},
                             "caption":{}
