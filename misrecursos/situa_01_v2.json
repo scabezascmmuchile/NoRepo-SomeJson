@@ -10,9 +10,9 @@
     "multimedia": {
         "esp": {
             "tipo": "imagen",
-            "previewurl": "http://static.sumaysigue.uchile.cl/MatCon/assets/images/Imagenbisonte.png",
-            "url": "http://static.sumaysigue.uchile.cl/MatCon/assets/images/Imagenbisonte.png",
-            "caption": "Imagen de un bisonte (10000 BC)"
+            "previewurl": "http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/mapa.png",
+            "url": "http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/mapa.png",
+            "caption": ""
         }
     },
     "etiquetas": [
