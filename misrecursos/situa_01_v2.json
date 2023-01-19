@@ -18,7 +18,7 @@
         "7° básico",
         "Números",
         "Representar - Historia",
-        "Geografía y Ciencias Sociales" 
+        "Geografía y Ciencias Sociales"
     ],
     "habilidades " : [
         "habilidad 1",
@@ -38,7 +38,7 @@
                     "text":{
                         "esp": "En 7° básico, es la primera vez que se estudian los números negativos. La situación “Husos horarios” ayuda a las y  los estudiantes a reconocer la necesidad de usar signos para denotar cantidades en relación a un referente. En este caso, los signos + y - se usan para referirse a zonas horarias “adelantadas” o “retrasadas” en relación al meridiano cero."
                     }
-                    
+
                 },
                 {
                     "tipo":"text",
@@ -53,7 +53,7 @@
                     "text":{
                         "esp":"Las y los estudiantes se han enfrentado en su vida scotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
                     }
-                }                
+                }
             ]
         },
         {
@@ -142,7 +142,7 @@
                             "ordered": false,
                             "initial": 1,
                             "firsttext": {
-                                "esp": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico" 
+                                "esp": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico"
                             },
                             "listelements":{
                                 "esp": [
@@ -150,7 +150,7 @@
                                 ]
                             }
                         }
-                            
+
                     ]
                 },
                 {
@@ -159,7 +159,7 @@
                     "text":{
                         "esp": "En el siguiente esquema, se propone una secuencia que ilustra cómo los aprendizajes abordados se vinculan con otros:"
                     }
-                    
+
                 },
                 {
                     "codigo": "imagen1",
@@ -173,7 +173,7 @@
                     "caption":{
                         "esp": "En el siguiente esquema, se propone una secuencia que ilustra cómo los aprendizajes abordados se vinculan con otros:"
                     }
-                    
+
                 }
             ]
         },
@@ -190,7 +190,7 @@
                     "text":{
                         "esp": "A continuación se resumen los principales momentos de la gestión y se detallan sus objetivos."
                     }
-                    
+
                 },
                 {
                     "tipo":"listsubelement",
@@ -300,7 +300,7 @@
                             }
                         },
                         {
-                            
+
                             "tipo":"titulo",
                             "text":{
                                 "esp": "<b>Signo de un número</b>."
@@ -328,9 +328,9 @@
                             "text":{
                                 "esp":"En general para un número a cualquiera, se define su opuesto, -a como su punto simétrico con respecto al 0. Así, si a está a la derecha del 0, entonces -a estará a la izquierda, mientras que si a está a la izquierda de 0,-a estará a la derecha."
                             }
-                        },                         
+                        },
                         {
-                            
+
                             "tipo":"titulo",
                             "text":{
                                 "esp": "<b>Números enteros"
@@ -461,19 +461,55 @@
                     },
                     "contenido":[
                         {
-                            "tipo":"list",
-                            "ordered": false,
-                            "initial": 1,
-                            "firsttext": {
-                                "esp":""
+                          "tipo":"pestanaslaterales",
+                          "color": "blue",
+                          "pestanas": [
+                            {
+                              "tipo":"pestanalateral"
+                              "titulo": {
+                                  "esp": "Construcción de conocimientos"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00."
+                                    }
+                                }
+                              ]
                             },
-                            "listelements":{
-                                "esp": [
-                                "<b>Infografía 1</b></br>Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la hora en cada una de ellas cuando en la zona cero son las 12:00.",
-                                "<b>Hoja de Actividades</b></br>Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación. ",
-                                "<b>Infografía 2</b></br>Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
-                                ]
+                            {
+                              "tipo":"pestanalateral"
+                              "titulo": {
+                                  "esp": "Hoja de Actividades"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Este documento presenta una serie de preguntas que se utilizan para favorecer la construcción de conocimientos asociados a esta situación."
+                                    }
+                                }
+                              ]
+                            },
+                            {
+                              "tipo":"pestanalateral"
+                              "titulo": {
+                                  "esp": "Infografía 2"
+                              },
+                              "contenido":[
+                                {
+                                    "tipo":"text",
+                                    "align": "justify",
+                                    "text":{
+                                        "esp":"Esta infografía muestra un mapa de la tierra con las 24 franjas horarias y la notación estándar con números enteros para cada una de ellas."
+                                    }
+                                }
+                              ]
                             }
+                          ]
                         }
                     ]
                 },
@@ -520,7 +556,7 @@
                     ]
                 }
             ]
-            
+
         },
         {
             "codigo": "gestion",
@@ -656,7 +692,7 @@
                             "height": 0,
                             "title":{},
                             "url": "",
-                            "caption":{} 
+                            "caption":{}
                         },
                         {
                             "tipo":"list",
@@ -665,7 +701,7 @@
                             "firsttext": {
                                 "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
                             },
-                            "listelements":{    
+                            "listelements":{
                                 "esp": [
                                 "<b>En el mapa anterior, anoten debajo de cada franja horaria, si está “adelantada” o “retrasada” respecto de la zona cero y en cuantas horas.</b>",
                                 "<b>¿Qué países están en esa zona horaria?</b>",
@@ -678,7 +714,7 @@
                             "align": "justify",
                             "text":{
                                 "esp":"tienen por objetivo que los estudiantes propongan una notación para la zona horaria que está retrasada una hora respecto de la zona cero o zona de referencia."
-                            }   
+                            }
                         },
                         {
                             "tipo":"text",
@@ -694,7 +730,7 @@
                             "height": 0,
                             "title":{},
                             "url": "",
-                            "caption":{} 
+                            "caption":{}
                         },
                         {
                             "tipo":"list",
@@ -703,7 +739,7 @@
                             "firsttext": {
                                 "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
                             },
-                            "listelements":{    
+                            "listelements":{
                                 "esp": [
                                 "<b>Completa el mapa con las zonas horarias, considerando la notación acordada en el curso</b>."
                                 ]
@@ -716,15 +752,15 @@
                             "height": 0,
                             "title":{},
                             "url": "",
-                            "caption":{} 
+                            "caption":{}
                         },
                         {
                             "tipo":"text",
                             "align": "justify",
                             "text":{
                                 "esp":"A modo de cierre de este momento, muestre la <b>Infografía 2</b> a sus estudiantes, en la cual se muestra el mapa de las zonas horarias con su notación estándar."
-                            }   
-                        }  
+                            }
+                        }
                     ]
                 },
                 {
@@ -740,7 +776,7 @@
                             "firsttext": {
                                 "esp":"Sistematice las siguientes ideas relativas a los números enteros."
                             },
-                            "listelements":{    
+                            "listelements":{
                                 "esp": [
                                 "En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.",
                                 "De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.",
@@ -752,7 +788,7 @@
                         {
                             "tipo":"momentodestacado",
                             "align": "justify",
-                            "contenido":[ 
+                            "contenido":[
                                 {
                                     "tipo":"text",
                                     "align": "justify",
@@ -769,10 +805,10 @@
                             "height": 0,
                             "title":{},
                             "url": "",
-                            "caption":{} 
+                            "caption":{}
                         }
                     ]
-                },      
+                },
                 {
                     "tipo": "cuadropestana",
                     "titulo": {
@@ -793,7 +829,7 @@
                             "firsttext": {
                                 "esp":"Estos ejercicios pueden ser utilizados para evaluar formativamente los siguientes indicadores:"
                             },
-                            "listelements":{    
+                            "listelements":{
                                 "esp": [
                                 "Relacionar cantidades de la vida diaria con números enteros",
                                 "Representar números enteros positivos y enteros negativos en la recta numérica"
