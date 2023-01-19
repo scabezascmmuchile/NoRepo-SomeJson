@@ -465,7 +465,7 @@
                           "color": "blue",
                           "pestanas": [
                             {
-                              "tipo":"pestanalateral"
+                              "tipo":"pestanalateral",
                               "titulo": {
                                   "esp": "Construcción de conocimientos"
                               },
@@ -480,7 +480,7 @@
                               ]
                             },
                             {
-                              "tipo":"pestanalateral"
+                              "tipo":"pestanalateral",
                               "titulo": {
                                   "esp": "Hoja de Actividades"
                               },
@@ -495,7 +495,7 @@
                               ]
                             },
                             {
-                              "tipo":"pestanalateral"
+                              "tipo":"pestanalateral",
                               "titulo": {
                                   "esp": "Infografía 2"
                               },
