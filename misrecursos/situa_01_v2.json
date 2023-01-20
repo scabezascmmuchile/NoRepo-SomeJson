@@ -461,6 +461,11 @@
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_02_Mesa%20de%20trabajo%201.png"},
                             "caption":{}
+                        },
+                        {
+                            "codigo": "dbtn",
+                            "tipo": "btn",
+                            "texto": "descargar"
                         }
                     ]
                 },
@@ -512,6 +517,11 @@
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201.png"},
                             "caption":{}
+                        },
+                        {
+                            "codigo": "dbtn",
+                            "tipo": "btn",
+                            "texto": "descargar"
                         }
                     ]
                 },
@@ -542,6 +552,11 @@
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/presentacion3.png"},
                             "caption":{}
+                        },
+                        {
+                            "codigo": "dbtn",
+                            "tipo": "btn",
+                            "texto": "descargar"
                         }
                     ]
                 },
@@ -572,6 +587,11 @@
                             "title":{},
                             "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/guia.png"},
                             "caption":{}
+                        },
+                        {
+                            "codigo": "dbtn",
+                            "tipo": "btn",
+                            "texto": "descargar"
                         }
                     ]
                 }
