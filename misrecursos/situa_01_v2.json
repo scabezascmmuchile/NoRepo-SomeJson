@@ -313,7 +313,7 @@
                             "codigo": "esquema3",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 224,
+                            "height": 172,
                             "title":{},
                             "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png"},
                             "caption":{}
