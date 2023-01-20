@@ -336,15 +336,17 @@
                             "tipo":"text",
                             "align": "justify",
                             "text":{
-                                "esp":"Los números enteros corresponden a los números naturales, sus opuestos y el cero. Este conjunto se denota usualmente con la letra \\( \\mathbb{Z} \\). "
+                                "esp":"Los números enteros corresponden a los números naturales, sus opuestos y el cero. Este conjunto se denota usualmente con la letra <img src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/z.png' width='24px' />. "
                             }
                         },
                         {
-                            "tipo":"text",
-                            "align": "center",
-                            "text":{
-                                "esp":"\\(\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}\\)\\(\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}\\)"
-                            }
+                            "codigo": "globe1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 224,
+                            "title":{},
+                            "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/ecua2.png"},
+                            "caption":{}
                         },
                         {
                             "tipo":"text",
