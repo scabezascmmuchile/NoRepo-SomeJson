@@ -30,6 +30,7 @@
             "nombre": {
                 "esp": "Fundamentación"
             },
+            "icon": "md-newspaper-outline",
             "color": "red",
             "contenido": [
                 {
@@ -61,6 +62,7 @@
             "nombre": {
                 "esp": "Aprendizajes"
             },
+            "icon": "bulb-outline",
             "color": "green",
             "contenido": [
                 {
@@ -178,6 +180,7 @@
             "nombre": {
                 "esp": "Vista Previa de la Gestión"
             },
+            "icon": "eye-outline",
             "color": "yellow",
             "contenido": [
                 {
