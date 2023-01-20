@@ -11,7 +11,7 @@
         "esp": {
             "tipo": "imagen",
             "previewurl": "http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/mapaborde.jpg",
-            "url": "http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201.png",
+            "url": "http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png",
             "caption": ""
         }
     },
@@ -515,7 +515,7 @@
                             "width": 0,
                             "height": 624,
                             "title":{},
-                            "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201.png"},
+                            "url":  {"esp":"http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png"},
                             "caption":{}
                         },
                         {
