@@ -389,7 +389,7 @@
                         "codigo": "globe1",
                         "tipo":"imagen",
                         "width": 0,
-                        "height": 400,
+                        "height": 512,
                         "title":{},
                         "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/globo1.png"},
                         "caption":{}
