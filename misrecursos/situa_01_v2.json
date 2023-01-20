@@ -283,7 +283,7 @@
                             "codigo": "esquema2",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 400,
+                            "height": 224,
                             "title":{},
                             "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png"},
                             "caption":{}
@@ -313,7 +313,7 @@
                             "codigo": "esquema3",
                             "tipo":"imagen",
                             "width": 0,
-                            "height": 400,
+                            "height": 224,
                             "title":{},
                             "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema3.png"},
                             "caption":{}
@@ -336,7 +336,7 @@
                             "tipo":"text",
                             "align": "justify",
                             "text":{
-                                "esp":"Los números enteros corresponden a los números naturales, sus opuestos y el cero. Este conjunto se denota usualmente con la letra <img src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/z.png' width='24px' />. "
+                                "esp":"Los números enteros corresponden a los números naturales, sus opuestos y el cero. Este conjunto se denota usualmente con la letra <img src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/z.png' style='width:24px' />. "
                             }
                         },
                         {
