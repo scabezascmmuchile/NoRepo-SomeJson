@@ -648,7 +648,7 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?/i>",
+                                "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?</i>",
                                 "<i>¿Por qué creen que ocurre lo anterior?</i>"
                                 ]
                             }
@@ -683,6 +683,12 @@
                                 "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
                                 ]
                             }
+                        },
+                        {
+                            "tipo":"collap_c1",
+                            "interior":"la respuesta es",
+                            "boton":"Ver respuesta",
+                            "icono":"book"
                         },
                         {
                             "tipo":"text",
