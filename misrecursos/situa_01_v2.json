@@ -686,7 +686,7 @@
                         },
                         {
                             "tipo":"collap_c1",
-                            "interior":"la respuesta es",
+                            "interior":"<p>Esta vendría siendo la respuesta</p>",
                             "boton":"Ver respuesta",
                             "icono":"book"
                         },
