@@ -758,17 +758,34 @@
                             "caption":{}
                         },
                         {
-                            "tipo":"list",
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
+                            }
+                        },
+                        {
+                            "tipo":"capsula",
+                            "subtipo": "info",
                             "ordered": true,
                             "initial": 1,
                             "firsttext": {
-                                "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
+                                "esp":""
                             },
-                            "listelements":{
+                            "capsulahtml":{
                                 "esp": [
-                                "<b>En el mapa anterior, anoten debajo de cada franja horaria, si está “adelantada” o “retrasada” respecto de la zona cero y en cuantas horas.</b>",
-                                "<b>¿Qué países están en esa zona horaria?</b>",
-                                "<b>¿Conviene denotar también como “+1” la zona horaria que está retrasada una hora? Justifiquen su respuesta y luego discutan con otros compañeros/as.</b>"
+                                    {
+                                        "tipo":"text",
+                                        "contenido": "<b>1. En el mapa anterior, anoten debajo de cada franja horaria, si está “adelantada” o “retrasada” respecto de la zona cero y en cuantas horas.</b>"
+                                    },
+                                    {
+                                        "tipo":"text",
+                                        "contenido": "<b>2. ¿Qué países están en esa zona horaria?</b>"
+                                    },
+                                    {
+                                        "tipo":"text",
+                                        "contenido": "<b>3. ¿Conviene denotar también como “+1” la zona horaria que está retrasada una hora? Justifiquen su respuesta y luego discutan con otros compañeros/as.</b>"
+                                    }
                                 ]
                             }
                         },
@@ -796,15 +813,26 @@
                             "caption":{}
                         },
                         {
-                            "tipo":"list",
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Luego, pídales que trabajen en la cuarta pregunta de la Hoja de Actividades:"
+                            }
+                        },
+                        {
+                            "tipo":"capsula",
+                            "subtipo": "info",
                             "ordered": true,
-                            "initial": 4,
+                            "initial": 1,
                             "firsttext": {
-                                "esp":"Proponga a sus estudiantes trabajar en grupos pequeños en la <b>Hoja de Actividades</b>. Las primeras tres preguntas:"
+                                "esp":""
                             },
-                            "listelements":{
+                            "capsulahtml":{
                                 "esp": [
-                                "<b>Completa el mapa con las zonas horarias, considerando la notación acordada en el curso</b>."
+                                    {
+                                        "tipo":"text",
+                                        "contenido": "<b>4. Completa el mapa con las zonas horarias, considerando la notación acordada en el curso. </b>"
+                                    }
                                 ]
                             }
                         },
