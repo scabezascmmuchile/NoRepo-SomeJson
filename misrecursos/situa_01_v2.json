@@ -686,6 +686,9 @@
                             "tipo":"list",
                             "ordered": false,
                             "initial": 1,
+                            "firsttext": {
+                                "esp":""
+                            },
                             "listelements":{
                                 "esp": [
                                 "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>",
