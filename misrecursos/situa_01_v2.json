@@ -686,7 +686,7 @@
                         },
                         {
                             "tipo":"collap_c1",
-                            "interior":"<p>Esta vendría siendo la respuesta</p>",
+                            "interior":"<p style='border: 3px solid indigo;text-align:justify; font-size: 24px; color: #535353;'>Esta vendría siendo la respuesta</p>",
                             "boton":"Ver respuesta",
                             "icono":"book"
                         },
