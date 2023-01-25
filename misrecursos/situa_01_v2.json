@@ -669,6 +669,13 @@
                             "url":  {"esp":""},
                             "caption":{}
                         },
+                         {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:"
+                            }
+                        },
                         {
                             "tipo":"collap_c1",
                             "interior":"la respuesta es",
@@ -679,9 +686,6 @@
                             "tipo":"list",
                             "ordered": false,
                             "initial": 1,
-                            "firsttext": {
-                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:"
-                            },
                             "listelements":{
                                 "esp": [
                                 "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>",
