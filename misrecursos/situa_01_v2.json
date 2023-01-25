@@ -686,7 +686,7 @@
                         },
                         {
                             "tipo":"collap_c1",
-                            "interior":"<p>Esta vendría siendo la respuesta</p><img src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png'>",
+                            "interior":"<p>Esta vendría siendo la respuesta</p><img style='width:500px' src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png'>",
                             "boton":"Ver Infografía",
                             "icono":"book"
                         },
