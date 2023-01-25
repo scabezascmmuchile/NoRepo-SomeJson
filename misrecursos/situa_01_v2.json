@@ -883,7 +883,7 @@
                                 "esp": [
                                     {
                                         "tipo":"text",
-                                        "contenido": "Pida a los estudiantes que identifiquen en el mapa la zona que está una hora adelantada con respecto a la zona cero (denotada como 0) e indique que esta zona se clasificará como la zona horaria +1."
+                                        "contenido": "Es probable que dado el contexto utilizado, algunos estudiantes piensen que los números enteros corresponden al rango [-11, -10, …, 0 , …., +11, +12]. En este caso, haga énfasis en la idea de que los números enteros son infinitos, y que en esta actividad se estudió una aplicación particular de ellos."
                                     }
                                 ]
                             }
