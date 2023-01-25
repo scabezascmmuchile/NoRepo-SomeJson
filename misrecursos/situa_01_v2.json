@@ -670,6 +670,12 @@
                             "caption":{}
                         },
                         {
+                            "tipo":"collap_c1",
+                            "interior":"la respuesta es",
+                            "boton":"Ver respuesta",
+                            "icono":"book"
+                        },
+                        {
                             "tipo":"list",
                             "ordered": false,
                             "initial": 1,
@@ -683,12 +689,6 @@
                                 "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
                                 ]
                             }
-                        },
-                        {
-                            "tipo":"collap_c1",
-                            "interior":"la respuesta es",
-                            "boton":"Ver respuesta",
-                            "icono":"book"
                         },
                         {
                             "tipo":"text",
