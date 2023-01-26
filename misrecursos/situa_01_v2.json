@@ -756,7 +756,7 @@
                                 "esp": [
                                     {
                                         "tipo":"text",
-                                        "contenido": "Explique que la hora cero se fija en la franja horaria de color blanco de la <b>Infografía 1</b> y dé algunos ejemplos de países que se encuentran en esta franja horaria (Inglaterra, Escocia, Burkina Faso)."
+                                        "contenido": "Pida a los estudiantes que identifiquen en el mapa la zona que está una hora adelantada con respecto a la zona cero (denotada como 0) e indique que esta zona se clasificará como la zona horaria +1. "
                                     }
                                 ]
                             }
@@ -779,7 +779,7 @@
                         },
                         {
                             "tipo":"capsula",
-                            "subtipo": "info",
+                            "subtipo": "actividades",
                             "ordered": true,
                             "initial": 1,
                             "firsttext": {
