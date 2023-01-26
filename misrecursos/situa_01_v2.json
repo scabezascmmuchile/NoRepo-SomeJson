@@ -640,16 +640,23 @@
                             "caption":{}
                         },
                         {
-                            "tipo":"list",
+                            "tipo":"capsula",
+                            "subtipo": "pregunta",
                             "ordered": false,
                             "initial": 1,
                             "firsttext": {
                                 "esp":""
                             },
-                            "listelements":{
+                            "capsulahtml":{
                                 "esp": [
-                                "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?</i>",
-                                "<i>¿Por qué creen que ocurre lo anterior?</i>"
+                                    {
+                                        "tipo": "lista",
+                                        "contenido": "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?</i>"
+                                    },
+                                    {
+                                        "tipo": "lista",
+                                        "contenido": "<i>¿Por qué creen que ocurre lo anterior?</i>"
+                                    }
                                 ]
                             }
                         },
