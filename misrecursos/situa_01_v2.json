@@ -67,16 +67,16 @@
             "color": "green",
             "contenido": [
                 {
-                    "tipo":"list",
+                    "tipo": "list",
                     "ordered": false,
                     "initial": 1,
                     "firsttext": {
-                        "esp":"<b>Propósitos</b>"
+                        "esp": "<b>Propósitos</b>"
                     },
-                    "listelements":{
+                    "listelements": {
                         "esp": [
-                        "Reconocer la utilidad de los números enteros para representar situaciones de la vida cotidiana.",
-                        "Representar números enteros en la recta numérica."
+                            "Reconocer la utilidad de los números enteros para representar situaciones de la vida cotidiana.",
+                            "Representar números enteros en la recta numérica."
                         ]
                     }
                 },
