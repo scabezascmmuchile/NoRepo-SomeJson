@@ -94,6 +94,18 @@
                                 "interior":"<p>OA 1: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
                                 "boton":"Contenido: OA 1 del eje de Números.",
                                 "icono":"caretdown"
+                            },
+                            {
+                                "tipo": "collap_c2",
+                                "interior": "<p>OAH k: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p>OAH m:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
+                                "boton": "Habilidad: Representar (OAH k y OAH m).",
+                                "icono": "caretdown"
+                            },
+                            {
+                                "tipo": "collap_c2",
+                                "interior": "<p>Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas.</p>",
+                                "boton": "Actitud: OAA A.",
+                                "icono": "caretdown"
                             }
                         ]
                 },
