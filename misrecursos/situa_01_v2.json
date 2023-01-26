@@ -677,17 +677,27 @@
                             "caption":{}
                         },
                         {
-                            "tipo":"list",
+                            "tipo":"capsula",
+                            "subtipo": "pregunta",
                             "ordered": false,
                             "initial": 1,
                             "firsttext": {
-                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:"
+                                "esp":""
                             },
-                            "listelements":{
+                            "capsulahtml":{
                                 "esp": [
-                                "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>",
-                                "<i>¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?</i>",
-                                "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
+                                    {
+                                        "tipo": "lista",
+                                        "contenido": "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>"
+                                    },
+                                    {
+                                        "tipo": "lista",
+                                        "contenido": "<i>¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?</i>"
+                                    },
+                                    {
+                                        "tipo": "lista",
+                                        "contenido": "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
+                                    }
                                 ]
                             }
                         },
@@ -727,13 +737,12 @@
                             }
                         },
                         {
-                            "tipo":"momentodestacado",
-                            "align": "justify",
-                            "contenido":[
+                            "tipo":"capsula",
+                            "subtipo": "destacado",
+                            "capsulahtml":[
                                 {
                                     "tipo":"text",
-                                    "align": "justify",
-                                    "text":{
+                                    "contenido":{
                                         "esp":"Explique que la hora cero se fija en la franja horaria de color blanco de la <b>Infografía 1</b> y dé algunos ejemplos de países que se encuentran en esta franja horaria (Inglaterra, Escocia, Burkina Faso)."
                                     }
                                 }
@@ -840,13 +849,12 @@
                             }
                         },
                         {
-                            "tipo":"momentodestacado",
-                            "align": "justify",
-                            "contenido":[
+                            "tipo":"capsula",
+                            "subtipo": "destacado",
+                            "capsulahtml":[
                                 {
                                     "tipo":"text",
-                                    "align": "justify",
-                                    "text":{
+                                    "contenido":{
                                         "esp":"Pida a los estudiantes que identifiquen en el mapa la zona que está una hora adelantada con respecto a la zona cero (denotada como 0) e indique que esta zona se clasificará como la zona horaria +1."
                                     }
                                 }
