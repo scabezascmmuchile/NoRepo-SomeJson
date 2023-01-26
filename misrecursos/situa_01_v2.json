@@ -668,6 +668,25 @@
                             }
                         },
                         {
+                            "tipo":"titulo",
+                            "text":{
+                                "esp":"Presentación del problema"
+                            }
+                        },
+                        {
+                            "tipo":"text",
+                            "align": "justify",
+                            "text":{
+                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:,"
+                            }
+                        },
+                        {
+                            "tipo":"collap_c1",
+                            "interior":"<p>Esta vendría siendo la respuesta</p><img style='width:500px' src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png'>",
+                            "boton":"Ver Infografía",
+                            "icono":"book"
+                        },
+                        {
                             "codigo": "imagen1",
                             "tipo":"imagen",
                             "width": 0,
@@ -700,12 +719,6 @@
                                     }
                                 ]
                             }
-                        },
-                        {
-                            "tipo":"collap_c1",
-                            "interior":"<p>Esta vendría siendo la respuesta</p><img style='width:500px' src='http://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/info_01_Mesa%20de%20trabajo%201_1.png'>",
-                            "boton":"Ver Infografía",
-                            "icono":"book"
                         },
                         {
                             "tipo":"text",
