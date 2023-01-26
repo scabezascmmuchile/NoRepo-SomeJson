@@ -90,10 +90,10 @@
                     "listelements":
                         [
                             {
-                                "tipo":"collap_c1",
+                                "tipo":"collap_c2",
                                 "interior":"<p>OA 1: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
                                 "boton":"Contenido: OA 1 del eje de Números.",
-                                "icono":"book"
+                                "icono":"caretdown"
                             }
                         ]
                 },
