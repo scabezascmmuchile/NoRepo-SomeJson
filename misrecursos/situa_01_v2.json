@@ -110,6 +110,28 @@
                         ]
                 },
                 {
+                    "tipo": "listacollap",
+                    "ordered": false,
+                    "initial": 1,
+                    "firsttext": {
+                        "esp": "<b>Transversalidades</b>"
+                    },
+                    "listelements": [
+                        {
+                            "tipo": "collap_c2",
+                            "interior": "<p>OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales. </p>",
+                            "boton": "OA transversal: OAT 7.",
+                            "icono": "caretdown"
+                        },
+                        {
+                            "tipo": "collap_c2",
+                            "interior": "<p>OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos). </p>",
+                            "boton": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico.",
+                            "icono": "caretdown"
+                        }
+                    ]
+                },
+                {
                     "tipo":"listsubelement",
                     "ordered": false,
                     "initial": 1,
