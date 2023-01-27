@@ -630,11 +630,11 @@
                                 "esp": [
                                     {
                                         "tipo": "lista",
-                                        "contenido": "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?</i>"
+                                        "contenido": "¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?"
                                     },
                                     {
                                         "tipo": "lista",
-                                        "contenido": "<i>¿Por qué creen que ocurre lo anterior?</i>"
+                                        "contenido": "¿Por qué creen que ocurre lo anterior?"
                                     }
                                 ]
                             }
@@ -686,15 +686,15 @@
                                 "esp": [
                                     {
                                         "tipo": "lista",
-                                        "contenido": "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>"
+                                        "contenido": "¿Qué hora es en Chile cuando en Inglaterra son las 12:00?"
                                     },
                                     {
                                         "tipo": "lista",
-                                        "contenido": "<i>¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?</i>"
+                                        "contenido": "¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?"
                                     },
                                     {
                                         "tipo": "lista",
-                                        "contenido": "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
+                                        "contenido": "¿Cuántas horas de diferencia hay entre Chile e Inglaterra?"
                                     }
                                 ]
                             }
