@@ -53,7 +53,7 @@
                     "tipo":"text",
                     "align": "justify",
                     "text":{
-                        "esp":"Las y los estudiantes se han enfrentado en su vida scotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
+                        "esp":"Las y los estudiantes se han enfrentado en su vida cotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
                     }
                 }
             ]
@@ -606,7 +606,7 @@
                             "tipo":"text",
                             "align": "justify",
                             "text":{
-                                "esp":"Comience la lección planteando las siguientes preguntas,"
+                                "esp":"Comience la lección planteando las siguientes preguntas:"
                             }
                         },
                         {
