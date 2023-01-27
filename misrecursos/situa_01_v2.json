@@ -97,13 +97,13 @@
                             },
                             {
                                 "tipo": "collap_c2",
-                                "interior": "<p><b>OAH k</b>: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p>OAH m:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
+                                "interior": "<p><b>OAH k</b>: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p><b>OAH m</b>:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
                                 "boton": "Habilidad: Representar (OAH k y OAH m).",
                                 "icono": "caretdown"
                             },
                             {
                                 "tipo": "collap_c2",
-                                "interior": "<p>Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas.</p>",
+                                "interior": "<p><b>OAA A</b>: Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas.</p>",
                                 "boton": "Actitud: OAA A.",
                                 "icono": "caretdown"
                             }
@@ -119,13 +119,13 @@
                     "listelements": [
                         {
                             "tipo": "collap_c2",
-                            "interior": "<p>OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales. </p>",
+                            "interior": "<p><b>OAT 7</b>: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales. </p>",
                             "boton": "OA transversal: OAT 7.",
                             "icono": "caretdown"
                         },
                         {
                             "tipo": "collap_c2",
-                            "interior": "<p>OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos). </p>",
+                            "interior": "<p><b>OA 6</b>: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos). </p>",
                             "boton": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico.",
                             "icono": "caretdown"
                         }
