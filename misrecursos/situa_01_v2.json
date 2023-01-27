@@ -630,11 +630,11 @@
                                 "esp": [
                                     {
                                         "tipo": "lista",
-                                        "contenido": "¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?"
+                                        "contenido": "<b>1.</b>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?"
                                     },
                                     {
                                         "tipo": "lista",
-                                        "contenido": "¿Por qué creen que ocurre lo anterior?"
+                                        "contenido": "<b>2.</b>¿Por qué creen que ocurre lo anterior?"
                                     }
                                 ]
                             }
@@ -685,16 +685,16 @@
                             "capsulahtml":{
                                 "esp": [
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "¿Qué hora es en Chile cuando en Inglaterra son las 12:00?"
+                                        "tipo": "text",
+                                        "contenido": "<b>1.</b> ¿Qué hora es en Chile cuando en Inglaterra son las 12:00?"
                                     },
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?"
+                                        "tipo": "text",
+                                        "contenido": "<b>2.</b> ¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?"
                                     },
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "¿Cuántas horas de diferencia hay entre Chile e Inglaterra?"
+                                        "tipo": "text",
+                                        "contenido": "<b>3.</b> ¿Cuántas horas de diferencia hay entre Chile e Inglaterra?"
                                     }
                                 ]
                             }
