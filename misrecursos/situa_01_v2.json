@@ -91,13 +91,13 @@
                         [
                             {
                                 "tipo":"collap_c2",
-                                "interior":"<p>OA 1: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
+                                "interior":"<p><b>OA 1</b>: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
                                 "boton":"Contenido: OA 1 del eje de Números.",
                                 "icono":"caretdown"
                             },
                             {
                                 "tipo": "collap_c2",
-                                "interior": "<p>OAH k: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p>OAH m:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
+                                "interior": "<p><b>OAH k</b>: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p>OAH m:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
                                 "boton": "Habilidad: Representar (OAH k y OAH m).",
                                 "icono": "caretdown"
                             },
@@ -861,8 +861,8 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "<li>En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.</li>",
-                                "<li>De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.</li>",
+                                "En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.",
+                                "De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.",
                                 "Para denotar a los números a la derecha del cero en la recta numérica se utiliza el signo (+). Sin embargo, muchas veces el signo + no se anota.",
                                 "Los números enteros son aquellos números que incluyen a los números naturales (es decir, los números positivos) el cero y los números negativos, que se encuentran a la izquierda del cero."
                                 ]
