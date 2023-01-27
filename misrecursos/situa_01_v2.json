@@ -861,8 +861,8 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.",
-                                "De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.",
+                                "<li>En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.</li>",
+                                "<li>De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.</li>",
                                 "Para denotar a los números a la derecha del cero en la recta numérica se utiliza el signo (+). Sin embargo, muchas veces el signo + no se anota.",
                                 "Los números enteros son aquellos números que incluyen a los números naturales (es decir, los números positivos) el cero y los números negativos, que se encuentran a la izquierda del cero."
                                 ]
