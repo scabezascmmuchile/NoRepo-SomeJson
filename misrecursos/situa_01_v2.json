@@ -230,6 +230,24 @@
                     ]
                 }
             ]
+        },
+        {
+            "codigo": "multest",
+            "nombre": {
+                "esp": "Multimedia Test"
+            },
+            "icon": "md-newspaper-outline",
+            "color": "red",
+            "contenido": [
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Prueba de Multimedia"
+                    }
+
+                }
+            ]
         }
     ],
     "cuadrotema": [
