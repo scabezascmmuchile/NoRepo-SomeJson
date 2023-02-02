@@ -261,6 +261,22 @@
                             "caption": "Video"
                         }
                     }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "PDF:"
+                    }
+                },
+                {
+                    "tipo": "pdf",
+                    "pdf": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                            "caption": ""
+                        }
+                    }
                 }
             ]
         }
