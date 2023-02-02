@@ -245,6 +245,22 @@
                     "text":{
                         "esp": "Prueba de Multimedia"
                     }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "video:"
+                    }
+                },
+                {
+                    "tipo": "video",
+                    "video": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                            "caption": "Video"
+                        }
+                    }
                 }
             ]
         }
