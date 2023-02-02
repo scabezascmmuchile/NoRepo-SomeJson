@@ -416,6 +416,10 @@
                         },
                         {
                             "tipo":"latex",
+                            "contenido": "\\mathbb{Z}\\"
+                        },
+                        {
+                            "tipo":"latex",
                             "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
                         },
                         {
