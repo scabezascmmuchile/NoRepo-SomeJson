@@ -277,6 +277,22 @@
                             "caption": ""
                         }
                     }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Geogebra:"
+                    }
+                },
+                {
+                    "tipo": "geo",
+                    "geogebra": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
+                            "caption": "Geogebra"
+                        }
+                    }
                 }
             ]
         }
