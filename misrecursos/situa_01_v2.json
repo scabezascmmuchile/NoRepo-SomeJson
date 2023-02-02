@@ -312,6 +312,18 @@
                     "title":{},
                     "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
                     "caption":{}
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Latex (Katex):"
+                    }
+                },   
+                {
+                    "codigo": "formula1",
+                    "tipo":"latex",
+                    "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
                 }
             ]
         }
