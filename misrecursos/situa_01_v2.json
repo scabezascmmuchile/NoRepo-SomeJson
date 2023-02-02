@@ -254,6 +254,7 @@
                     }
                 },
                 {
+                    "codigo": "video1",
                     "tipo": "video",
                     "video": {
                         "esp": {
@@ -270,6 +271,7 @@
                     }
                 },
                 {
+                    "codigo": "pf1",
                     "tipo": "pdf",
                     "pdf": {
                         "esp": {
@@ -286,6 +288,7 @@
                     }
                 },
                 {
+                    "codigo": "geo1",
                     "tipo": "geo",
                     "geogebra": {
                         "esp": {
@@ -293,6 +296,22 @@
                             "caption": "Geogebra"
                         }
                     }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "GIF:"
+                    }
+                },
+                {
+                    "codigo": "esquema2",
+                    "tipo":"imagen",
+                    "width": 0,
+                    "height": 224,
+                    "title":{},
+                    "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/img/esquema2.png"},
+                    "caption":{}
                 }
             ]
         }
