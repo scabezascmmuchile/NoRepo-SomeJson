@@ -1015,84 +1015,84 @@
                             }
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "codigo": "testmultimediaa",
+            "titulo": {
+                "esp": "Prueba Multimedia"
+            },
+            "color" : "darkblue",
+            "tipo": "cuadrotema",
+            "descripcion": {
+                "esp": "Prueba de elementos multimedia"
+            },
+            "ubicacion": "",
+            "contenido" : [
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Video"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "video1",
+                            "tipo": "video",
+                            "video": {
+                                "esp": {
+                                    "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                                    "caption": "Video"
+                                }
+                            }
+                        }
+                    ]
                 },
                 {
-                    "codigo": "testmultimediaa",
+                    "tipo": "cuadropestana",
                     "titulo": {
-                        "esp": "Prueba Multimedia"
+                        "esp": "Gif"
                     },
-                    "color" : "darkblue",
-                    "tipo": "cuadrotema",
-                    "descripcion": {
-                        "esp": "Prueba de elementos multimedia"
+                    "contenido":[
+                        {
+                            "codigo": "gif1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 224,
+                            "title":{},
+                            "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
+                            "caption":{}
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Geogebra:"
                     },
-                    "ubicacion": "",
-                    "contenido" : [
+                    "contenido":[
                         {
-                            "tipo": "cuadropestana",
-                            "titulo": {
-                                "esp": "Video"
-                            },
-                            "contenido":[
-                                {
-                                    "codigo": "video1",
-                                    "tipo": "video",
-                                    "video": {
-                                        "esp": {
-                                            "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
-                                            "caption": "Video"
-                                        }
-                                    }
+                            "codigo": "geo1",
+                            "tipo": "geo",
+                            "geogebra": {
+                                "esp": {
+                                    "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
+                                    "caption": "Geogebra"
                                 }
-                            ]
-                        },
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Latex:"
+                    },
+                    "contenido":[
                         {
-                            "tipo": "cuadropestana",
-                            "titulo": {
-                                "esp": "Gif"
-                            },
-                            "contenido":[
-                                {
-                                    "codigo": "gif1",
-                                    "tipo":"imagen",
-                                    "width": 0,
-                                    "height": 224,
-                                    "title":{},
-                                    "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
-                                    "caption":{}
-                                }
-                            ]
-                        },
-                        {
-                            "tipo": "cuadropestana",
-                            "titulo": {
-                                "esp": "Geogebra:"
-                            },
-                            "contenido":[
-                                {
-                                    "codigo": "geo1",
-                                    "tipo": "geo",
-                                    "geogebra": {
-                                        "esp": {
-                                            "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
-                                            "caption": "Geogebra"
-                                        }
-                                    }
-                                }
-                            ]
-                        },
-                        {
-                            "tipo": "cuadropestana",
-                            "titulo": {
-                                "esp": "Latex:"
-                            },
-                            "contenido":[
-                                {
-                                    "codigo": "formula1",
-                                    "tipo":"latex",
-                                    "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
-                                }
-                            ]
+                            "codigo": "formula1",
+                            "tipo":"latex",
+                            "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
                         }
                     ]
                 }
