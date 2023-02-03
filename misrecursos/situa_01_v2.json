@@ -1125,7 +1125,7 @@
                     },
                     "contenido":[
                         {
-                            "codigo": "formula1",
+                            "codigo": "formula2",
                             "tipo":"latex",
                             "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
                         }
