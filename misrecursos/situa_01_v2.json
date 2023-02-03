@@ -336,6 +336,7 @@
                     "codigo": "slideshow1",
                     "tipo":"ppt",
                     "startindex": 1,
+                    "height": 224,
                     "slides": {
                         "esp": [ 
                             {
@@ -1137,8 +1138,9 @@
                     },
                     "contenido":[
                         {
-                            "codigo": "slideshow1",
+                            "codigo": "slideshow2",
                             "tipo":"ppt",
+                            "height": 224,
                             "startindex": 1,
                             "slides": {
                                 "esp": [ 
@@ -1156,8 +1158,8 @@
                                     },
                                     {
                                         "id": 3,
-                                        "title": "element2",
-                                        "caption": "Caption two",
+                                        "title": "element3",
+                                        "caption": "Caption 3",
                                         "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap2.PNG"
                                     }
                                 ]
