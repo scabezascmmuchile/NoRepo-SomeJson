@@ -416,7 +416,7 @@
                         },
                         {
                             "tipo":"latex",
-                            "contenido": "\\mathbb{Z}\\"
+                            "contenido": "\\mathbb{Z}"
                         },
                         {
                             "tipo":"latex",
