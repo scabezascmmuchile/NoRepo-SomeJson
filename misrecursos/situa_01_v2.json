@@ -416,10 +416,6 @@
                         },
                         {
                             "tipo":"latex",
-                            "contenido": "\\mathbb{Z}"
-                        },
-                        {
-                            "tipo":"latex",
                             "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
                         },
                         {
@@ -1013,10 +1009,52 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "Relacionar cantidades de la vida diaria con números enteros",
-                                "Representar números enteros positivos y enteros negativos en la recta numérica"
+                                    "Relacionar cantidades de la vida diaria con números enteros",
+                                    "Representar números enteros positivos y enteros negativos en la recta numérica"
                                 ]
                             }
+                        }
+                    ]
+                },
+                {
+                    "codigo": "testmultimediaa",
+                    "titulo": {
+                        "esp": "Prueba Multimedia"
+                    },
+                    "color" : "darkblue",
+                    "tipo": "cuadrotema",
+                    "descripcion": {
+                        "esp": "Prueba de elementos multimedia"
+                    },
+                    "ubicacion": "",
+                    "contenido" : [
+                        {
+                            "tipo": "cuadropestana",
+                            "titulo": {
+                                "esp": "Video"
+                            },
+                            "contenido":[]
+                        },
+                        {
+                            "tipo": "cuadropestana",
+                            "titulo": {
+                                "esp": "Gif"
+                            },
+                            "contenido":[]
+                        },
+                        {
+                            "tipo": "cuadropestana",
+                            "titulo": {
+                                "esp": "Geogebra:"
+                            },
+                            "contenido":[]
+                        },
+                        {
+                            "tipo": "cuadropestana",
+                            "titulo": {
+                                "esp": "Latex:"
+                            },
+                            "contenido":[]
                         }
                     ]
                 }
