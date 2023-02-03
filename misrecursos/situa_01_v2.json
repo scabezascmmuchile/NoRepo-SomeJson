@@ -1140,7 +1140,7 @@
                         {
                             "codigo": "slideshow2",
                             "tipo":"ppt",
-                            "height": 224,
+                            "height": 424,
                             "startindex": 1,
                             "slides": {
                                 "esp": [ 
