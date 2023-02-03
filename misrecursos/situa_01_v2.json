@@ -324,6 +324,40 @@
                     "codigo": "formula1",
                     "tipo":"latex",
                     "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Slideshow:"
+                    }
+                },   
+                {
+                    "codigo": "slideshow1",
+                    "tipo":"ppt",
+                    "startindex": 1,
+                    "slides": {
+                        "esp": [ 
+                            {
+                                "id": 1,
+                                "title": "element1",
+                                "caption": "Caption1",
+                                "imageurl":"https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap0.PNG"
+                            },
+                            {
+                                "id": 2,
+                                "title": "element2",
+                                "caption": "Caption two",
+                                "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap1.PNG"
+                            },
+                            {
+                                "id": 3,
+                                "title": "element2",
+                                "caption": "Caption two",
+                                "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap2.PNG"
+                            }
+                        ]
+                    }
                 }
             ]
         }
