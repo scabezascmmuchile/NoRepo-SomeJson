@@ -1033,28 +1033,66 @@
                             "titulo": {
                                 "esp": "Video"
                             },
-                            "contenido":[]
+                            "contenido":[
+                                {
+                                    "codigo": "video1",
+                                    "tipo": "video",
+                                    "video": {
+                                        "esp": {
+                                            "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                                            "caption": "Video"
+                                        }
+                                    }
+                                }
+                            ]
                         },
                         {
                             "tipo": "cuadropestana",
                             "titulo": {
                                 "esp": "Gif"
                             },
-                            "contenido":[]
+                            "contenido":[
+                                {
+                                    "codigo": "gif1",
+                                    "tipo":"imagen",
+                                    "width": 0,
+                                    "height": 224,
+                                    "title":{},
+                                    "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
+                                    "caption":{}
+                                }
+                            ]
                         },
                         {
                             "tipo": "cuadropestana",
                             "titulo": {
                                 "esp": "Geogebra:"
                             },
-                            "contenido":[]
+                            "contenido":[
+                                {
+                                    "codigo": "geo1",
+                                    "tipo": "geo",
+                                    "geogebra": {
+                                        "esp": {
+                                            "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
+                                            "caption": "Geogebra"
+                                        }
+                                    }
+                                }
+                            ]
                         },
                         {
                             "tipo": "cuadropestana",
                             "titulo": {
                                 "esp": "Latex:"
                             },
-                            "contenido":[]
+                            "contenido":[
+                                {
+                                    "codigo": "formula1",
+                                    "tipo":"latex",
+                                    "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
+                                }
+                            ]
                         }
                     ]
                 }
