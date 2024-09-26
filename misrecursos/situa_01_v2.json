@@ -53,7 +53,7 @@
                     "tipo":"text",
                     "align": "justify",
                     "text":{
-                        "esp":"Las y los estudiantes se han enfrentado en su vida scotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
+                        "esp":"Las y los estudiantes se han enfrentado en su vida cotidiana a tener que interpretar información que involucra los husos horarios. Por ejemplo, en eventos deportivos, estrenos cinematográficos, campeonatos online, festivales, entre otros. En particular, esta situación se relaciona con la migración e integración cultural, lo que es un tema socialmente relevante, dado que es probable que muchos estudiantes tengan amigos o familiares en otros países con los cuales quieran comunicarse."
                     }
                 }
             ]
@@ -91,19 +91,19 @@
                         [
                             {
                                 "tipo":"collap_c2",
-                                "interior":"<p>OA 1: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
+                                "interior":"<p><b>OA 1</b>: Mostrar que comprenden la adición y la sustracción de números enteros:</p><ul><li>Representando los números enteros en la recta numérica.</li><li>Representándolas de manera concreta, pictórica y simbólica.</li><li>Dándole significado a los símbolos + y - según el contexto (por ejemplo: un movimiento en una dirección seguido de un movimiento equivalente en la posición opuesta no representa ningún cambio de posición).</li><li>Resolviendo problemas en contextos cotidianos.</li></ul>",
                                 "boton":"Contenido: OA 1 del eje de Números.",
                                 "icono":"caretdown"
                             },
                             {
                                 "tipo": "collap_c2",
-                                "interior": "<p>OAH k: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p>OAH m:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
+                                "interior": "<p><b>OAH k</b>: Elegir y utilizar representaciones concretas, pictóricas y simbólicas para enunciados y situaciones en contextos diversos (tablas, gráficos, recta numérica, entre otros)</p><p><b>OAH m</b>:  Representar y ejemplificar, utilizando analogías, metáforas y situaciones familiares para resolver problemas.</p>",
                                 "boton": "Habilidad: Representar (OAH k y OAH m).",
                                 "icono": "caretdown"
                             },
                             {
                                 "tipo": "collap_c2",
-                                "interior": "<p>Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas.</p>",
+                                "interior": "<p><b>OAA A</b>: Abordar de manera flexible y creativa la búsqueda de soluciones a problemas de la vida diaria, de la sociedad en general, o propios de otras asignaturas.</p>",
                                 "boton": "Actitud: OAA A.",
                                 "icono": "caretdown"
                             }
@@ -119,13 +119,13 @@
                     "listelements": [
                         {
                             "tipo": "collap_c2",
-                            "interior": "<p>OAT 7: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales. </p>",
+                            "interior": "<p><b>OAT 7</b>: Resolver problemas de manera reflexiva en el ámbito escolar, familiar y social, tanto utilizando modelos y rutinas como aplicando de manera creativa conceptos, criterios, principios y leyes generales. </p>",
                             "boton": "OA transversal: OAT 7.",
                             "icono": "caretdown"
                         },
                         {
                             "tipo": "collap_c2",
-                            "interior": "<p>OA 6: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos). </p>",
+                            "interior": "<p><b>OA 6</b>: Ubicar lugares en un mapa, utilizando coordenadas geográficas como referencia (paralelos y meridianos). </p>",
                             "boton": "OA de otras asignaturas: OA 6 de Historia, Geografía y Ciencias Sociales de 4° básico.",
                             "icono": "caretdown"
                         }
@@ -228,6 +228,137 @@
                                 }
                             }
                     ]
+                }
+            ]
+        },
+        {
+            "codigo": "multest",
+            "nombre": {
+                "esp": "Multimedia Test"
+            },
+            "icon": "md-newspaper-outline",
+            "color": "red",
+            "contenido": [
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Prueba de Multimedia"
+                    }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "video:"
+                    }
+                },
+                {
+                    "codigo": "video1",
+                    "tipo": "video",
+                    "video": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                            "caption": "Video"
+                        }
+                    }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "PDF:"
+                    }
+                },
+                {
+                    "codigo": "pf1",
+                    "tipo": "pdf",
+                    "pdf": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/produccion/situa_01/pdf/info_01.pdf",
+                            "caption": ""
+                        }
+                    }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Geogebra:"
+                    }
+                },
+                {
+                    "codigo": "geo1",
+                    "tipo": "geo",
+                    "geogebra": {
+                        "esp": {
+                            "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
+                            "caption": "Geogebra"
+                        }
+                    }
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "GIF:"
+                    }
+                },
+                {
+                    "codigo": "gif1",
+                    "tipo":"imagen",
+                    "width": 0,
+                    "height": 224,
+                    "title":{},
+                    "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
+                    "caption":{}
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Latex (Katex):"
+                    }
+                },   
+                {
+                    "codigo": "formula1",
+                    "tipo":"latex",
+                    "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
+                },
+                {
+                    "tipo":"text",
+                    "align": "justify",
+                    "text":{
+                        "esp": "Slideshow:"
+                    }
+                },   
+                {
+                    "codigo": "slideshow1",
+                    "tipo":"ppt",
+                    "startindex": 1,
+                    "height": 224,
+                    "slides": {
+                        "esp": [ 
+                            {
+                                "id": 1,
+                                "title": "element1",
+                                "caption": "Caption1",
+                                "imageurl":"https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap0.PNG"
+                            },
+                            {
+                                "id": 2,
+                                "title": "element2",
+                                "caption": "Caption two",
+                                "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap1.PNG"
+                            },
+                            {
+                                "id": 3,
+                                "title": "element2",
+                                "caption": "Caption two",
+                                "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap2.PNG"
+                            }
+                        ]
+                    }
                 }
             ]
         }
@@ -606,7 +737,7 @@
                             "tipo":"text",
                             "align": "justify",
                             "text":{
-                                "esp":"Comience la lección planteando las siguientes preguntas,"
+                                "esp":"Comience la lección planteando las siguientes preguntas:"
                             }
                         },
                         {
@@ -629,12 +760,12 @@
                             "capsulahtml":{
                                 "esp": [
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "<i>¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?</i>"
+                                        "tipo": "text",
+                                        "contenido": "1. ¿Sabías que la hora es distinta dependiendo del lugar del mundo en el que estés?"
                                     },
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "<i>¿Por qué creen que ocurre lo anterior?</i>"
+                                        "tipo": "text",
+                                        "contenido": "2. ¿Por qué creen que ocurre lo anterior?"
                                     }
                                 ]
                             }
@@ -656,7 +787,7 @@
                             "tipo":"text",
                             "align": "justify",
                             "text":{
-                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:,"
+                                "esp":"Luego, presente la <b>Infografía 1</b> y proponga preguntas que ayuden a las y los estudiantes a reconocer la existencia de las diferencias horarias en el planeta, las que se distribuyen por “franjas” o zonas horarias, tales como:"
                             }
                         },
                         {
@@ -685,16 +816,16 @@
                             "capsulahtml":{
                                 "esp": [
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "<i>¿Qué hora es en Chile cuando en Inglaterra son las 12:00?</i>"
+                                        "tipo": "text",
+                                        "contenido": "1. ¿Qué hora es en Chile cuando en Inglaterra son las 12:00?"
                                     },
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "<i>¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?</i>"
+                                        "tipo": "text",
+                                        "contenido": "2. ¿Qué hora será en Chile cuando en Inglaterra sean las 20:00?"
                                     },
                                     {
-                                        "tipo": "lista",
-                                        "contenido": "<i>¿Cuántas horas de diferencia hay entre Chile e Inglaterra?</i>"
+                                        "tipo": "text",
+                                        "contenido": "3. ¿Cuántas horas de diferencia hay entre Chile e Inglaterra?"
                                     }
                                 ]
                             }
@@ -861,7 +992,7 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.",
+                                "<li>En el contexto se han utilizado los signos positivos y negativos para referirse a las zonas horarias que están adelantadas o retrasadas respecto de la zona cero.</li>",
                                 "De forma similar a cómo se representaron las zonas horarias retrasadas o adelantadas respecto de la zona cero, en la recta numérica también se utiliza el signo (-) o (+) para representar a los números que se encuentran a la izquierda o a la derecha del cero.",
                                 "Para denotar a los números a la derecha del cero en la recta numérica se utiliza el signo (+). Sin embargo, muchas veces el signo + no se anota.",
                                 "Los números enteros son aquellos números que incluyen a los números naturales (es decir, los números positivos) el cero y los números negativos, que se encuentran a la izquierda del cero."
@@ -913,8 +1044,124 @@
                             },
                             "listelements":{
                                 "esp": [
-                                "Relacionar cantidades de la vida diaria con números enteros",
-                                "Representar números enteros positivos y enteros negativos en la recta numérica"
+                                    "Relacionar cantidades de la vida diaria con números enteros",
+                                    "Representar números enteros positivos y enteros negativos en la recta numérica"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "codigo": "testmultimediaa",
+            "titulo": {
+                "esp": "Prueba Multimedia"
+            },
+            "color" : "darkblue",
+            "tipo": "cuadrotema",
+            "descripcion": {
+                "esp": "Prueba de elementos multimedia"
+            },
+            "ubicacion": "",
+            "contenido" : [
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Video"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "video1",
+                            "tipo": "video",
+                            "video": {
+                                "esp": {
+                                    "url": "https://static.sumaysigue.uchile.cl/MASonline/bundles/SND%20RTA4/Resources/Clip_11.webm",
+                                    "caption": "Video"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Gif"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "gif1",
+                            "tipo":"imagen",
+                            "width": 0,
+                            "height": 224,
+                            "title":{},
+                            "url":  {"esp":"https://static.sumaysigue.uchile.cl/MatCon/assets/images/imagengif.gif"},
+                            "caption":{}
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Geogebra:"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "geo1",
+                            "tipo": "geo",
+                            "geogebra": {
+                                "esp": {
+                                    "url": "https://static.sumaysigue.uchile.cl/MatCon/assets/geogebras/geogebratest/",
+                                    "caption": "Geogebra"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Latex:"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "formula2",
+                            "tipo":"latex",
+                            "contenido": "\\mathbb{Z}=\\{...,-3,-2,-1,0,1,2,3,...\\}"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "cuadropestana",
+                    "titulo": {
+                        "esp": "Slideshow:"
+                    },
+                    "contenido":[
+                        {
+                            "codigo": "slideshow2",
+                            "tipo":"ppt",
+                            "height": 424,
+                            "startindex": 1,
+                            "slides": {
+                                "esp": [ 
+                                    {
+                                        "id": 1,
+                                        "title": "element1",
+                                        "caption": "Caption1",
+                                        "imageurl":"https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap0.PNG"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "title": "element2",
+                                        "caption": "Caption two",
+                                        "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap1.PNG"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "title": "element3",
+                                        "caption": "Caption 3",
+                                        "imageurl": "https://static.sumaysigue.uchile.cl/MASonline/bundles/IPG%20RTA3/Capturas/cap2.PNG"
+                                    }
                                 ]
                             }
                         }
